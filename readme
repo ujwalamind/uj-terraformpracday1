@@ -1,0 +1,17 @@
+main.tf → What resources should Terraform create?
+
+
+
+variables.tf → What inputs does Terraform need?
+
+
+
+terraform.tfvars → What values should those variables have?
+
+
+
+provider.tf → Which AWS provider and region should Terraform use?
+
+
+
+outputs.tf → What information should Terraform display after creation?
